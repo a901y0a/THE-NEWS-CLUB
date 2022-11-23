@@ -1,0 +1,37 @@
+button
+{
+  padding:10px;
+  background-color: black;
+  color: beige;
+}
+
+.form{
+  background-image: url("https://img.freepik.com/premium-photo/deep-dark-blue-black-background_488220-29591.jpg");
+  color: beige;
+  background-size:cover;
+  width:100%;
+  height:45REM;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size:  30px;
+}
+
+h2{
+  color:black;
+}
+
+h3{
+  color: bisque;
+  background-color: black;
+font-size: 70%;
+}
+
+.small{
+  padding: 10px;
+}
+h4{
+  color: black;
+}
